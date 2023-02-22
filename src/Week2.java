@@ -3,7 +3,7 @@ public class Week2 // arrays, loops, if/else
     public static void main(String[] args)
     {
         String name = "Michael"; //use breakpoints at the left here and click on little bug top right, then down blue arrow to watch execution of each line
-        String output = "Yo " + name + "!";
+        String output = "Hello " + name + "!";
         System.out.println(output);
         System.out.println("##############################################");
 //------------------------------------------------------------------------------------------------
